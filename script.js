@@ -243,5 +243,5 @@ function requestWithdraw() {
 }
 
 function openSupport() {
-    window.open("https://t.me/0997791266", "_blank");
+    window.open("https://t.me/0990791985", "_blank");
 }
