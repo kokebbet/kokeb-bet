@@ -238,7 +238,7 @@ function requestWithdraw() {
 
     userBalance -= amt;
     updateBalanceDisplay();
-    alert("የ Withdraw ጥያቄዎ በ Telebirr በኩል ተልኳል (ኤጀንት: 0997791266)");
+    alert("የ Withdraw ጥያቄዎ በ Telebirr በኩል ተልኳል (ኤጀንት: 0990791985)");
     closeModal('withdrawModal');
 }
 
