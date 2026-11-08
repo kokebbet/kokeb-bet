@@ -207,8 +207,8 @@ function updateBalanceDisplay() {
 }
 
 function copyPhone() {
-    navigator.clipboard.writeText("0997791266");
-    alert("ስልክ ቁጥር ተገልብጧል (Copied): 0997791266");
+    navigator.clipboard.writeText("0990791985");
+    alert("ስልክ ቁጥር ተገልብጧል (Copied): 0990791985");
 }
 
 function submitDepositStep1() {
